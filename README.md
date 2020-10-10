@@ -1,4 +1,4 @@
-Hello, My Friends  
+Hello!
 Thank you for having interest in this repository ! 
 
 To use this application, 
@@ -18,10 +18,5 @@ To use this application,
     "dev": "concurrently \"npm run backend\" \"npm run start --prefix client\""
   }
 
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
 
 
