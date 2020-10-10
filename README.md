@@ -14,6 +14,9 @@ To Start use "npm run dev" command in main directory to start both backend and f
 # Pictures
 All Pictures are saved at uploads folder.
 
+# See Live
+http://picksoftsample.herokuapp.com/
+
 
 
 
