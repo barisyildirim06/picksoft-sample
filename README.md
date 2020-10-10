@@ -12,7 +12,7 @@ This is MERN Stack Project which uses React.js and Redux at Frontend, Node.js an
 To Start use "npm run dev" command in main directory to start both backend and frontend.
 
 # Pictures
-All Pictures are saved at uploads folder
+All Pictures are saved at uploads folder. 
 
 
 
