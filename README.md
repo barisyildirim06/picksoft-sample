@@ -8,15 +8,8 @@ To use this application,
 3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
+To Start use "npm run dev" command to start both backend and frontend
 
-"scripts": {
-    "start": "node server/index.js",
-    "backend": "nodemon server/index.js",
-    "build": "cd client && npm run build",
-    "heroku-postbuild": "npm run install-client && npm run build",
-    "frontend": "npm run start --prefix client",
-    "dev": "concurrently \"npm run backend\" \"npm run start --prefix client\""
-  }
 
 
 
